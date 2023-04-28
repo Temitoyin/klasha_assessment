@@ -115,7 +115,7 @@ const SalesChart = () => {
           </p>
           <Icon name="vector-down" />
         </div>
-        <div className="flex items-center w-[148px] h-full rounded-[6px] border border-black2 px-[10px] jusify-center ml-[8px] sm:ml-[13px] cursor-pointer">
+        <div className=" items-center w-[148px] h-full rounded-[6px] border border-black2 px-[10px] jusify-center ml-[8px] sm:ml-[13px] cursor-pointer hidden sm:flex">
           <Icon name="arrow-down" />
           <p className="ml-[10px] text-[10px] lg:text-[12px] font-semibold align-center md:whitespace-nowrap font-inter">
             Download report

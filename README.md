@@ -4,7 +4,7 @@ Klasha Technical Test
 
 ## Url
 
-https://mainstack-xi.vercel.app/
+https://klasha-assessment-two.vercel.app/dashboard
 
 ## Description
 
